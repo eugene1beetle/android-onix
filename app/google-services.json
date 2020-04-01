@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154690039779",
+    "firebase_url": "https://onix-android.firebaseio.com",
+    "project_id": "onix-android",
+    "storage_bucket": "onix-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154690039779:android:6d7e74c32b0e615090fad6",
+        "android_client_info": {
+          "package_name": "com.example.onix_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154690039779-9k5lugmvr7d175tqd68p792d96v85asi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onix_android",
+            "certificate_hash": "dd8028eea447740e65c7ce9f2c343030660b06df"
+          }
+        },
+        {
+          "client_id": "154690039779-u7o29pubmv6onf94hj19l89a8bk1gn0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgfjzU1FVNIu9wrF8ndNZfB-qjBfLznVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154690039779-u7o29pubmv6onf94hj19l89a8bk1gn0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
